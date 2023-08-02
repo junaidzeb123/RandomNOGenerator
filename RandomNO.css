@@ -1,0 +1,23 @@
+
+        body{
+            background-color: brown;
+        }
+        h3{
+            width: fit-content;
+            margin: 50px auto;
+            text-transform: uppercase;
+
+        }
+        .container{
+            width: 200px;
+            height: 200px;
+            background-color: aquamarine;
+            margin: auto;
+            border-radius: 10px;
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 30px;
+        }
+ 
